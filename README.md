@@ -33,4 +33,4 @@ Công cụ PowerShell cho Windows giúp bạn **cài Python**, **gỡ Python s�
 ### 1) Chạy trực tiếp (One-liner)
 
 ```powershell
-irm https://raw.githubusercontent.com/<USER>/<REPO>/master/nmhruby.ps1 | iex
+irm https://raw.githubusercontent.com/hungthichcode/pythonoptimize/master/nmhruby.ps1 | iex
